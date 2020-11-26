@@ -1,6 +1,6 @@
 {
   "name": "@osjs/stylelint-config",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "OS.js v3 Stylelint configuration",
   "main": "index.js",
   "scripts": {
